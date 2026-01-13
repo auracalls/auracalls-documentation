@@ -7,12 +7,12 @@
   },
   "favicon": "/favicon.png",
   "colors": {
-    "primary": "#06df4b",
-    "light": "#06df4b",
-    "dark": "#65fe50",
+    "primary": "#563d7c",
+    "light": "#563d7c",
+    "dark": "#563d7c",
     "anchors": {
-      "from": "#01df4a",
-      "to": "#65fe50"
+      "from": "#563d7c",
+      "to": "#563d7c"
     }
   },
   "topAnchor": {
@@ -24,14 +24,14 @@
   },
   "topbarLinks": [{
     "name": "Home",
-    "url": "https://autocalls.ai"
+    "url": "https://auracalls.ai"
   }, {
     "name": "Support",
-    "url": "https://autocalls.ai/contact"
+    "url": "https://auracalls.ai/contact"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://app.autocalls.ai"
+    "url": "https://app.auracalls.ai"
   },
   "anchors": [{
     "name": "No-Code Automation",
@@ -57,7 +57,7 @@
   "navigation": [{
       "group": "Introduction",
       "pages": [
-        "introduction/what-is-autocalls",
+        "introduction/what-is-auracalls",
         "introduction/how-it-works",
         "introduction/key-terminology"
       ]
@@ -332,10 +332,10 @@
     }
   ],
   "footerSocials": {
-    "linkedin": "https://www.linkedin.com/company/autocalls-ai"
+    "linkedin": "https://www.linkedin.com/company/aura-calls"
   },
   "api": {
-    "baseUrl": "https://app.autocalls.ai/api/",
+    "baseUrl": "https://app.auracalls.ai/api/",
     "auth": {
       "method": "bearer"
     }
