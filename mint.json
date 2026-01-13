@@ -168,14 +168,6 @@
       ]
     },
     {
-      "group": "Costs & Pricing",
-      "pages": [
-        "pricing/overview",
-        "pricing/usage-based",
-        "pricing/number-rentals"
-      ]
-    },
-    {
       "group": "Number Provisioning",
       "pages": [
         "provisioning/supported-countries",
