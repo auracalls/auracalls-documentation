@@ -65,8 +65,7 @@
     {
       "group": "Getting Started",
       "pages": [
-        "getting-started/core-concepts",
-        "getting-started/understanding-billing"
+        "getting-started/core-concepts"
       ]
     },
     {
@@ -125,7 +124,6 @@
       "pages": [
         "phone-numbers/types",
         "phone-numbers/purchasing-and-managing",
-        "phone-numbers/pricing-and-regions",
         "phone-numbers/sms-capabilities",
         "phone-numbers/assigning-to-assistants"
       ]
